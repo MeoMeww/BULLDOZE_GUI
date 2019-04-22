@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 2df9447e4c9e04cee800b2e1fe22e735
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: //RootNode
+    100004: ladle
+    100006: left_track
+    100008: lever
+    100010: piston
+    100012: piston.001
+    100014: piston.002
+    100016: piston.003
+    100018: piston2
+    100020: piston2.001
+    100022: right_track
+    400000: body
+    400002: //RootNode
+    400004: ladle
+    400006: left_track
+    400008: lever
+    400010: piston
+    400012: piston.001
+    400014: piston.002
+    400016: piston.003
+    400018: piston2
+    400020: piston2.001
+    400022: right_track
+    2100000: body
+    2100002: salon
+    2100004: windows
+    2100006: mirror
+    2100008: 6156daac_dds
+    2300000: body
+    2300002: ladle
+    2300004: left_track
+    2300006: lever
+    2300008: piston
+    2300010: piston.001
+    2300012: piston.002
+    2300014: piston.003
+    2300016: piston2
+    2300018: piston2.001
+    2300020: right_track
+    3300000: body
+    3300002: ladle
+    3300004: left_track
+    3300006: lever
+    3300008: piston
+    3300010: piston.001
+    3300012: piston.002
+    3300014: piston.003
+    3300016: piston2
+    3300018: piston2.001
+    3300020: right_track
+    4300000: piston2.001
+    4300002: piston.003
+    4300004: piston.002
+    4300006: piston.001
+    4300008: body
+    4300010: lever
+    4300012: right_track
+    4300014: left_track
+    4300016: piston
+    4300018: piston2
+    4300020: ladle
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Bulldozer_remake(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piston2.001
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 1.043586, y: 1.7721664, z: -0.19941033}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piston.003
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 1.6338251, y: 0.9895922, z: -0.8232262}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piston.002
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 1.6317822, y: 0.9899181, z: 0.42474487}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piston.001
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 1.6338869, y: 0.9897233, z: 0.4250047}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: Bulldozer_remake(Clone)
+      position: {x: -0.21880896, y: 1.8039024, z: -0.19946237}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lever
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 0.7344582, y: 1.6881487, z: -0.19939561}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_track
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 0.38372374, y: 0.23199132, z: -1.2722424}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_track
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 0.43082523, y: 0.23821391, z: 0.87328404}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piston
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 1.6317205, y: 0.9897865, z: -0.82334054}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: piston2
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 1.043586, y: 1.7721664, z: -0.19941033}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ladle
+      parentName: Bulldozer_remake(Clone)
+      position: {x: 3.0442271, y: 0.058660414, z: -0.19951892}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
